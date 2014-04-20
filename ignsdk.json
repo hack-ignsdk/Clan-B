@@ -8,7 +8,7 @@
 		"transparent" : false, 
 		"noframe" : false, 
 		"fullscreen" : false,
-		"maximize" : false,
+		"maximize" : true,
 		"width" : 300,
 		"height" : 400
 	},
